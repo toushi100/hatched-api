@@ -1,0 +1,8 @@
+{
+  "INVESTORS_DATA_ERROR": "Error occurred while calculating investors captable data",
+  "EMPLOYEES_DATA_ERROR": "Error occurred while calculating employees captable data",
+  "ESOP_DATA_ERROR": "Error occurred while calculating esop captable data",
+  "TOTAL_CALCULATIONS_ERROR": "Error occurred while calculating percentages and total values",
+  "CAPTABLE_DATA_ERROR": "Error occurred while fetching captable data rows",
+  "EXISTING_SHARES_ERROR": "Error occurred while fetching existing shares numbers"
+}

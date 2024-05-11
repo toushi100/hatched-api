@@ -1,0 +1,14 @@
+{
+  "NOT_FOUND": "This investment round does not exist",
+  "CREATION_ERROR": "Error happened while creating the investment round",
+  "UPDATE_ERROR": "ُError happened while updating the investment round",
+  "UPDATED_SUCCESSFULLY": "Updated investment round successfully",
+  "CANT_DELETE": "Error happened while deleting the investment round",
+  "DELETED_SUCCESSFULLY": "Deleted investment round successfully",
+  "COMPANY_ACCESS_DENIED": "Your company does not have access to this resource",
+  "CALCULATED_NUMBERS_ERROR": "Error happened while calculating the investment numbers",
+  "GET_LIST_ERROR": "Error happened while fetching company investment rounds",
+  "CURRENT_UNEXPORTED_ROUND_ERROR": "Please export the current round to Captable before adding a new round",
+  "DELETE_LATEST_ROUND_ERROR": "Please delete the latest investment round first",
+  "CREATE_ROUNDS_IN_ORDER_ERROR": "Please create investment rounds in order"
+}

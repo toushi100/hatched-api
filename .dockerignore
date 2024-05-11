@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+README.md
+!/node_modules/nestjs-aws/
+package-lock.json

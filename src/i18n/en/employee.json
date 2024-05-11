@@ -1,0 +1,12 @@
+{
+  "NOT_FOUND": "The employee does not exist",
+  "CREATION_ERROR": "Error happened while creating the employee",
+  "UPDATE_ERROR": "ُError happened while updating the employee",
+  "UPDATED_SUCCESSFULLY": "The employee updated successfully",
+  "DELETED_SUCCESSFULLY": "The employee deleted successfully",
+  "SUBORDINATES_ERROR": "Error happened while fetching employee subordinates",
+  "COMPANY_ACCESS_DENIED": "Your company does not have access to this employee",
+  "EMPLOYEES_VESTING_ERROR": "Error happened while fetching company's ESOP vesting employees",
+  "UPDATE_EMPLOYEES_VESTING_ERROR": "Error happened while updating the employee vesting shares and years",
+  "CANT_DELETE_ORGANIZATION_HEAD": "Can't delete the head of the organization."
+}

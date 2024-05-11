@@ -1,0 +1,10 @@
+export enum RevenueModelAndItemKeys {
+    MODEL_NOT_FOUND = "revenueModel.NOT_FOUND",
+    ITEM_NOT_FOUND = "revenueItem.NOT_FOUND",
+    CREATION_ERROR = "revenueItem.CREATION_ERROR",
+    UPDATE_ERROR = "revenueItem.UPDATE_ERROR",
+    UPDATED_SUCCESSFULLY = "revenueItem.UPDATED_SUCCESSFULLY",
+    CANT_DELETE = "revenueItem.CANT_DELETE",
+    DELETED_SUCCESSFULLY = "revenueItem.DELETED_SUCCESSFULLY",
+    COMPANY_ACCESS_DENIED = "revenueItem.COMPANY_ACCESS_DENIED",
+}

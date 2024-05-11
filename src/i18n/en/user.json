@@ -1,0 +1,12 @@
+{
+  "USER_NOT_FOUND":"User not found",
+  "USER_PASSWORD_NOT_MATCH": "Password not match",
+  "UPDATED_USER_PROFILE_SUCCESSFULLY": "User's profile updated successfully",
+  "EMAIL_VERIFICATION_CODE_SENT_SUCCESSFULLY": "Email verification code sent successfully",
+  "VERIFICATION_CODE_NOT_VALID": "Verification code not valid",
+  "VERIFICATION_CODE_EXPIRED": "Verification code expired",
+  "UPDATED_USER_EMAIL_SUCCESSFULLY": "User's email updated successfully",
+  "EMAIL_EXISTS": "This email is used before",
+  "EMAIL_INVITED_AS_INVESTOR": "This is email is invited to register as an investor",
+  "DELETION_ERROR": "Could not delete user profile or data"
+}

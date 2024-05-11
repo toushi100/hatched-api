@@ -1,0 +1,10 @@
+{
+  "USER_NOT_FOUND":"المستخدم غير موجود",
+  "USER_PASSWORD_NOT_MATCH" : "كلمه المرور غير صحيحة",
+  "UPDATED_USER_PROFILE_SUCCESSFULLY" : "تم تعديل الملف التعريفي بنجاح",
+  "EMAIL_VERIFICATION_CODE_SENT_SUCCESSFULLY": "تم ارسال كود التاكيد للبريد الالكتروني بنجاح",
+  "VERIFICATION_CODE_NOT_VALID": "كود التاكيد غير صالح",
+  "VERIFICATION_CODE_EXPIRED": "كود التاكيد منتهي الصلاحية",
+  "UPDATED_USER_EMAIL_SUCCESSFULLY" : "تم تعديل البريد الالكتروني بنجاح",
+  "EMAIL_EXISTS": "هذا الايميل مستخدم من قبل"
+}

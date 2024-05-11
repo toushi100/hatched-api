@@ -1,0 +1,23 @@
+export enum InvestmentRoundKeys {
+    NOT_FOUND = "investmentRound.NOT_FOUND",
+    CREATION_ERROR = "investmentRound.CREATION_ERROR",
+    UPDATE_ERROR = "investmentRound.UPDATE_ERROR",
+    UPDATED_SUCCESSFULLY = "investmentRound.UPDATED_SUCCESSFULLY",
+    CANT_DELETE = "investmentRound.CANT_DELETE",
+    DELETED_SUCCESSFULLY = "investmentRound.DELETED_SUCCESSFULLY",
+    COMPANY_ACCESS_DENIED = "investmentRound.COMPANY_ACCESS_DENIED",
+    CALCULATED_NUMBERS_ERROR = "investmentRound.CALCULATED_NUMBERS_ERROR",
+    GET_LIST_ERROR = "investmentRound.GET_LIST_ERROR",
+    CURRENT_UNEXPORTED_ROUND_ERROR = "investmentRound.CURRENT_UNEXPORTED_ROUND_ERROR",
+    DELETE_LATEST_ROUND_ERROR = "investmentRound.DELETE_LATEST_ROUND_ERROR",
+    CREATE_ROUNDS_IN_ORDER_ERROR = "investmentRound.CREATE_ROUNDS_IN_ORDER_ERROR",
+}
+
+export enum RoundInvestorKeys {
+    NOT_FOUND = "roundInvestor.NOT_FOUND",
+    CREATION_ERROR = "roundInvestor.CREATION_ERROR",
+    UPDATE_ERROR = "roundInvestor.UPDATE_ERROR",
+    UPDATED_SUCCESSFULLY = "roundInvestor.UPDATED_SUCCESSFULLY",
+    CANT_DELETE = "roundInvestor.CANT_DELETE",
+    DELETED_SUCCESSFULLY = "roundInvestor.DELETED_SUCCESSFULLY",
+}

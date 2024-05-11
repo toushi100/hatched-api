@@ -1,0 +1,12 @@
+{
+  "FINANCIAL_NUMBERS_AND_CHARTS_ERROR": "Could not get company's financial numbers or charts data",
+  "FINANCIAL_NUMBERS_ERROR": "Could not get company's financial numbers",
+  "FINANCIAL_ACTUAL_VS_BUDGET_ERROR": "Could not get financial actual vs budget chart data",
+  "FINANCIAL_PL_BREAKDOWN_ERROR": "Could not get financial P&L breakdown chart data",
+  "FINANCIAL_SALES_COMPONENT_ERROR": "Could not get financial sales components chart data",
+  "HR_NUMBERS_AND_CHARTS_ERROR": "Could not get company's HR numbers or charts data",
+  "HR_NUMBERS_ERROR": "Could not get company's HR numbers",
+  "HR_STAFF_COSTS_YTD_ERROR": "Could not get HR staff costs YTD chart data",
+  "HR_STAFF_AVG_4_MONTHS_ERROR": "Could not get HR staff costs avg. 4 months chart data",
+  "HR_ACTUAL_VS_BUDGET_ERROR": "Could not get HR actual vs budget salaries chart data"
+}

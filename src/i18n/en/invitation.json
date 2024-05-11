@@ -1,0 +1,10 @@
+{
+  "NOT_FOUND": "Invitation not found",
+  "REGISTERED_STARTUP_EMAIL_ERROR": "One or more of the emails are already registered as startups",
+  "SEND_ERROR": "An error occurred while sending invitations",
+  "SENT_SUCCESSFULLY": "Invitations sent successfully",
+  "UPDATE_ERROR": "An error occurred while updating invitations",
+  "UPDATED_SUCCESSFULLY": "Invitation updated successfully",
+  "CANT_DELETE": "Couldn't delete invitation",
+  "DELETED_SUCCESSFULLY ": "Invitation deleted successfully"
+}

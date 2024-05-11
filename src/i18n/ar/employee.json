@@ -1,0 +1,7 @@
+{
+  "NOT_FOUND": "هذا الموظف غير موجوده",
+  "CREATION_ERROR": "حدث خطا اثناء اضافه الموظف",
+  "UPDATE_ERROR": "حدث خطا اثناء تعديل الموظف",
+  "UPDATED_SUCCESSFULLY": "تم تعديل الموظف بنجاح",
+  "DELETED_SUCCESSFULLY": "تم مسح الموظف بنجاح"
+}

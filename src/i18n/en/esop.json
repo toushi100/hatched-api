@@ -1,0 +1,13 @@
+{
+  "NOT_FOUND": "ESOP not found",
+  "CREATED_SUCCESSFULLY": "ESOP created successfully",
+  "UPDATED_SUCCESSFULLY": "ESOP updated successfully",
+  "TOTAL_SHARES_UPDATED_SUCCESSFULLY": "ESOP total shares updated successfully",
+  "DELETED_SUCCESSFULLY": "ESOP deleted successfully",
+  "WRONG_LIST": "Make sure list size is equal to entered number of years",
+  "SHARES_PERCENTAGE_ERROR": "Sum of shares percentages of all years must be equal to 100%",
+  "COMPANY_ACCESS_DENIED": "Your company doesn't have access to this ESOP",
+  "TOTAL_SHARES_ERROR": "Error occurred while updating total ESOP shares",
+  "EMPLOYEES_VESTING_ERROR": "Error occurred while fetching vesting employees list",
+  "INSUFFICIENT_TOTAL_SHARES_ERROR": "New total shares is less than the shares already allocated to your employees"
+}

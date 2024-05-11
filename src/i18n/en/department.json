@@ -1,0 +1,9 @@
+{
+  "NOT_FOUND": "This department does not exist",
+  "CREATION_ERROR": "Error happened while creating the department",
+  "UPDATE_ERROR": "ُError happened while updating the department",
+  "UPDATED_SUCCESSFULLY": "Updated department successfully",
+  "DELETED_SUCCESSFULLY": "Deleted department successfully",
+  "CANT_DELETE": "Error happened while deleting the department",
+  "DEPARTMENT_HAS_EMPLOYEES_CANT_DELETE": "This department has employees. Please delete the employees first."
+}

@@ -1,0 +1,7 @@
+{
+  "NOT_FOUND": "Investor relation not found",
+  "UPDATE_ERROR": "An error occurred while updating relation",
+  "UPDATED_SUCCESSFULLY": "Investor relation updated successfully",
+  "CANT_DELETE": "Couldn't delete investor relation",
+  "DELETED_SUCCESSFULLY": "Investor relation deleted successfully"
+}

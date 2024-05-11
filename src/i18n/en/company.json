@@ -1,0 +1,15 @@
+{
+    "NOT_FOUND": "Company not found",
+    "CREATION_ERROR": "An error occurred while creating company",
+    "UPDATE_ERROR": "An error occurred while updating company",
+    "UPDATED_SUCCESSFULLY": "Company data updated successfully",
+    "CANT_DELETE": "Could not delete company data",
+    "DELETED_SUCCESSFULLY": "Company data deleted successfully",
+    "PLAN_DATES_NOT_FOUND": "Could not find company plan dates",
+    "PLAN_DATES_CREATION_ERROR": "An error occurred while creating company plan dates",
+    "PLAN_DATES_UPDATED_SUCCESSFULLY": "Company plan dates updated successfully",
+    "PLAN_DATES_UPDATE_ERROR": "An error occurred while updating company plan dates",
+    "INVALID_PLAN_DATES": "Budget dates are invalid",
+    "ORG_CHART_ERROR": "An error occurred while fetching organization chart",
+    "FINANCIAL_YEARS_ERROR": "Could not calculate financial years"
+}

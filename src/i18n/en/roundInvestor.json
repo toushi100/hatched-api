@@ -1,0 +1,8 @@
+{
+  "NOT_FOUND": "This investor does not exist",
+  "CREATION_ERROR": "Error happened while creating the investor",
+  "UPDATE_ERROR": "ُError happened while updating the investor",
+  "UPDATED_SUCCESSFULLY": "Updated investor successfully",
+  "CANT_DELETE": "Error happened while deleting the investor",
+  "DELETED_SUCCESSFULLY": "Deleted investor successfully"
+}
